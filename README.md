@@ -15,13 +15,16 @@ Explore Technologies: Explore different technologies and frameworks to make info
 Week 1 (January 1 - January 7)
 Orientation: Get acquainted with Prodigy InfoTech's culture, values, and team members.
 Project Introduction: Learn about the assigned project and the technologies involved.
+
 Week 2 (January 8 - January 14)
 Hands-on Coding: Dive into coding tasks with guidance and support from mentors.
 Training Sessions: Attend sessions on relevant technologies and tools.
+
 Week 3 (January 15 - January 21)
 Project Development: Continue working on the project, applying knowledge gained in training.
 Code Reviews: Participate in code reviews to improve code quality.
 Week 4 (January 22 - January 31)
+
 Finalization: Complete assigned tasks, wrap up the project, and prepare for the final presentation.
 Feedback Session: Receive feedback on performance and discuss overall experiences.
 
