@@ -23,8 +23,8 @@ Training Sessions: Attend sessions on relevant technologies and tools.
 Week 3 (January 15 - January 21)
 Project Development: Continue working on the project, applying knowledge gained in training.
 Code Reviews: Participate in code reviews to improve code quality.
-Week 4 (January 22 - January 31)
 
+Week 4 (January 22 - January 31)
 Finalization: Complete assigned tasks, wrap up the project, and prepare for the final presentation.
 Feedback Session: Receive feedback on performance and discuss overall experiences.
 
