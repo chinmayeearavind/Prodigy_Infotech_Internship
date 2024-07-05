@@ -12,8 +12,6 @@ Enhance Coding Skills: Engage in coding exercises, participate in code reviews, 
 Explore Technologies: Explore different technologies and frameworks to make informed career decisions.
 
 # Conclusion
-We believe this internship will be a transformative experience, providing a solid foundation for a future career in software development. Embrace challenges, collaborate with peers, and make the most of this opportunity to grow personally and professionally.
-
-Best of luck on your internship journey at Prodigy InfoTech! If you have any questions, feel free to reach out to your mentor or the internship coordinator.
+I believe this internship will be a transformative experience, providing a solid foundation for a future career in software development. Embrace challenges, collaborate with peers, and make the most of this opportunity to grow personally and professionally.
 
 Happy Coding!
