@@ -2,19 +2,16 @@
 
 Welcome to the Prodigy InfoTech Software Development Domain Internship! This README.md provides essential information about the internship program, including objectives, schedule, and expectations.
 
-#Overview
+# Overview
 This internship is designed to offer participants hands-on experience in the software development domain. Interns will have the opportunity to work on real-world projects, learn from industry experts, and enhance their coding skills.
 
-#Objectives
+# Objectives
 Gain Practical Experience: Work on real projects to gain practical insights into software development.
-
 Learn from Experts: Collaborate with experienced developers and learn best practices and industry standards.
-
 Enhance Coding Skills: Engage in coding exercises, participate in code reviews, and improve coding proficiency.
-
 Explore Technologies: Explore different technologies and frameworks to make informed career decisions.
 
-#Internship Schedule
+# Internship Schedule
 Week 1 (January 1 - January 7)
 Orientation: Get acquainted with Prodigy InfoTech's culture, values, and team members.
 Project Introduction: Learn about the assigned project and the technologies involved.
@@ -29,7 +26,7 @@ Finalization: Complete assigned tasks, wrap up the project, and prepare for the 
 Feedback Session: Receive feedback on performance and discuss overall experiences.
 
 
-#Conclusion
+# Conclusion
 We believe this internship will be a transformative experience, providing a solid foundation for a future career in software development. Embrace challenges, collaborate with peers, and make the most of this opportunity to grow personally and professionally.
 
 Best of luck on your internship journey at Prodigy InfoTech! If you have any questions, feel free to reach out to your mentor or the internship coordinator.
